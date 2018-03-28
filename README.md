@@ -7,3 +7,7 @@ Beispiele und Übungen aus dem Buch "Practical Machine Learning with H2O" von Da
 ### Kapitel 1
 
 	iris_deeplearning.py
+
+### Kapitel 2
+
+	load_from_dictionary.py
