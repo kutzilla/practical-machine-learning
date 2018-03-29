@@ -11,3 +11,4 @@ Beispiele und Übungen aus dem Buch "Practical Machine Learning with H2O" von Da
 ### Kapitel 2
 
 	load_from_dictionary.py
+	drop_and_assign.py
