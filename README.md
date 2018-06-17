@@ -25,3 +25,7 @@ Beispiele und Übungen aus dem Buch "Practical Machine Learning with H2O" von Da
 	load_football_2013_2014.R
 	analyze_football_bet_correlations.R
 	load.football.R
+
+### Kapitel 4
+
+	misbalanced_classes.example.R
