@@ -7,7 +7,7 @@ Beispiele und Übungen aus dem Buch "Practical Machine Learning with H2O" von Da
 ### Kapitel 1
 
 	iris_deeplearning.py
-	iris_deeplearning.R
+  iris_deeplearning.R
 
 ### Kapitel 2
 
@@ -16,11 +16,12 @@ Beispiele und Übungen aus dem Buch "Practical Machine Learning with H2O" von Da
 
 ### Kapitel 3
 
-  load.building_energy.R
-  load.building_energy.py
-  load.mnist.R
-  load.mnist_enhanced.R
-  building_energy_correlation.R
-  visualize_mnist_data.R
-  load.football.R
-  analyze_football_bet_correlations.R
+	load.building_energy.R
+	load.building_energy.py
+	load.mnist.R
+	load.mnist_enhanced.R
+	building_energy_correlation.R
+	visualize_mnist_data.R
+	load_football_2013_2014.R
+	analyze_football_bet_correlations.R
+	load.football.R
