@@ -29,3 +29,9 @@ Beispiele und Übungen aus dem Buch "Practical Machine Learning with H2O" von Da
 ### Kapitel 4
 
 	misbalanced_classes.example.R
+
+### Kapitel 5
+
+	random_forest.building_energy.default.R
+	random_forest.building_energy.grid.R
+	random_forest.building_energy.grid1.R
